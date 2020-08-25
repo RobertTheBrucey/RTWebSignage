@@ -1,0 +1,160 @@
+#content{
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		width:100%;
+		height:100%;
+}
+.myBack {
+	background-image: url("");
+	height: 100vh;
+	width: 100vw;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.displayBody {
+	overflow: hidden;
+	background-color: black;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	text-align: center;
+}
+input[type="file"] {
+    display: none;
+}
+.customForm {
+	border: 2px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+	background-color:#EEEEEE;
+}
+h2 {
+	text-align: center;
+}
+iframe {
+	display: none;
+	height: 0;
+	width: 0;
+	object-fit: contain;
+}
+.bruce-pic-space { /* Used in index.php for picture layout */
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+  
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+  
+	-webkit-flex-flow: row wrap;
+	justify-content: space-evenly;
+	align-content: space-evenly;
+	flex: 3;
+  
+	background-color: #6581C3;
+}
+
+.bruce-pic-space > li { /* Used in index.php for picture layout */
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	flex-grow: 0;
+	flex-shrink: 1;
+	text-align: center;
+	background-color: #6581C3;
+}
+.bruce-pic-space > li > a > img {
+	border: 0px solid black;
+	max-width: 150px;
+	height: 150px;
+	object-fit: contain;
+	background-color: #6581C3;
+}
+.bruce-pic-space > li  > img {
+	width: 150px;
+	height: 150px;
+	background-color: #6581C3;
+}
+.bruce-pic-space > li > form > input[type=submit] {
+	border: 6px solid #ccc;
+    display: inline-block;
+    padding: 2px 8px;
+    cursor: pointer;
+	background-color:#EEEEEE;
+}
+.header-space > li > form > input[type=submit] {
+	border: 6px solid #ccc;
+    display: inline-block;
+    padding: 2px 8px;
+    cursor: pointer;
+	background-color:#EEEEEE;
+}
+.layout-main {
+	display: flex;
+	flex-flow: row;
+	border-bottom-style: solid;
+	border-bottom-width: 2em;
+	border-bottom-color: #4161AB;
+	border-top-style: solid;
+	border-top-width: 2em;
+	border-top-color: #6581C3;
+}
+.header-space { /* Used in index.php for picture layout */
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+  
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+  
+	-webkit-flex-flow: row wrap;
+	justify-content: space-evenly;
+	align-content: space-evenly;
+	flex: 3;
+  
+	background-color: #4161AB;
+}
+
+.header-space > li { /* Used in index.php for picture layout */
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	flex-grow: 0;
+	flex-shrink: 1;
+	text-align: center;
+	background-color: #4161AB;
+}
+.header-space > li > a > img {
+	border: 0px solid black;
+	max-width: 150px;
+	height: 150px;
+	background-color: #4161AB;
+}
+.header-space > li > form > img {
+	max-width: 150px;
+	max-height: 150px;
+	background-color: #4161AB;
+}
+.header-space > li > h3 {
+	margin: 8px;
+}
+.layout-main {
+	display: flex;
+	flex-flow: row;
+	border-bottom-style: solid;
+	border-bottom-width: 2em;
+	border-bottom-color: #4161AB;
+	border-top-style: solid;
+	border-top-width: 2em;
+	border-top-color: #6581C3;
+}

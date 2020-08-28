@@ -13,11 +13,13 @@ if ($_POST['screenID'] == "all") {
 	for ($i = 1; $i <= $_POST['screenCount']; $i++) {
 		$target_file = $target_dir . $i . ".gif";
 		if (file_exists($target_dir . $i . ".gif.ooo")) {
-			rename($target_file . ".ooo", $target_file);
+			copy($target_file . ".ooo", $target_file);
+			unlink($target_file . ".ooo");
 		}
 	}
 } elseif (file_exists($target_file . ".ooo")) {
-	rename($target_file . ".ooo", $target_file);
+	copy($target_file . ".ooo", $target_file);
+	unlink($target_file . ".ooo");
 } else {
 	copy($target_file, $target_file . ".ooo");
 	copy($target_dir . "ooo.gif", $target_file);

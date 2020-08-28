@@ -8,6 +8,7 @@ function checkImage(screenID, elementId) //iFrame must have the ID "modFrame + s
 	modFrame.onload = function() {
 		var doc = modFrame.contentDocument? modFrame.contentDocument: modFrame.contentWindow.document;
 		var newModTime = doc.getElementById("modified").innerHTML;
+		//console.log("New: " + newModTime + ", Old: " + lastModTime[screenID]);
 		if (newModTime != lastModTime[screenID])
 		{
 			var imgObj = elementId;

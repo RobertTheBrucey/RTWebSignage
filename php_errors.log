@@ -1,0 +1,50 @@
+[28-Aug-2020 15:22:24 UTC] PHP Notice:  Undefined index: query in D:\RT-WebSignage\html\gif-upload.php on line 27
+[28-Aug-2020 15:22:24 UTC] PHP Notice:  Undefined index: screenCount in D:\RT-WebSignage\html\gif-upload.php on line 29
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\1.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\2.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\3.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\4.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\5.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\6.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\7.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\8.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\all.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:33 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\ooo.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\1.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\4.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\3.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\2.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\5.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\6.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\7.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\8.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\all.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:41 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\ooo.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:43 UTC] PHP Notice:  Undefined index: query in D:\RT-WebSignage\html\gif-upload.php on line 27
+[28-Aug-2020 15:22:43 UTC] PHP Notice:  Undefined index: screenCount in D:\RT-WebSignage\html\gif-upload.php on line 29
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\1.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\2.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\3.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\4.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\5.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\6.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\7.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\8.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\all.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:49 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\ooo.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\1.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\2.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\3.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\4.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\5.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\6.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\7.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\8.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\all.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:22:51 UTC] PHP Warning:  filemtime(): stat failed for D:\RT-WebSignage\html\images\ooo.gif in D:\RT-WebSignage\html\screenQuery.php on line 24
+[28-Aug-2020 15:26:04 UTC] PHP Notice:  Undefined index: query in D:\RT-WebSignage\html\gif-upload.php on line 27
+[28-Aug-2020 15:26:04 UTC] PHP Notice:  Undefined index: screenCount in D:\RT-WebSignage\html\gif-upload.php on line 29
+[28-Aug-2020 15:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function delete() in D:\RT-WebSignage\html\ooo-toggle.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\RT-WebSignage\html\ooo-toggle.php on line 21
